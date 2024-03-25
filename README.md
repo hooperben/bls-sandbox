@@ -1,0 +1,12 @@
+for a given point:
+
+```
+0x6C616D6264617370
+```
+
+the output is the point:
+
+```
+x: "13f9a0ebc51ea42000505bc4fc614b0439a11c572fc9deff89da9a3d2b8cfa5f0103be2054cb8bcd4147382c0c9f36bc"
+y: "0ef70d419e63b8691779b871967705a573269bb3f14a0b9973da407c1a8acce5507ef262e44e9d6c56d3508f80dba43f"
+```
